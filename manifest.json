@@ -1,0 +1,9 @@
+{
+  "name": "Dodospor",
+  "short_name": "Dodospor",
+  "start_url": "/dodospor/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e1e1e",
+  "lang": "tr"
+}
